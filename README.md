@@ -1,11 +1,8 @@
-# :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流②群：1087700294，二维码在本文最后】
+﻿# :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流②群：1087700294，二维码在本文最后】
 
-- [**2019下半年本群通过率（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md)
-<div align="center">
- <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/群通过率/2019下半年/通过率.png" width=400 />
- </kbd> 
- </div>
+- [**2020下半年①、②群群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
+
+- [**2019下半年本群通过率（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2019%E4%B8%8B%E5%8D%8A%E5%B9%B4/2019.md) 
  
 
 - **本库说明**
