@@ -1,4 +1,4 @@
-﻿# :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流②群：1087700294，二维码在本文最后，加群请备注Github】
+﻿# :100:系统架构设计师复习资料【更多教材+视频+论文等资料可加入QQ交流①群：746552968，②群：1087700294，二维码在本文最后，加群请备注Github】
 
 - [**2020下半年①、②群通过人数（仅供参考）**](https://github.com/xxlllq/system_architect/blob/master/%E7%BE%A4%E9%80%9A%E8%BF%87%E7%8E%87/2020%E4%B8%8B%E5%8D%8A%E5%B9%B4/2020.md)
 
@@ -58,7 +58,7 @@
 
 - 作者会实时更新备考资料，如有课程资源不明白的地方，可直接 [**Issues**](https://github.com/xxlllq/2018_system_architect/issues) 提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
--  更多教材、视频、论文等资料，可加入QQ交流群①群：746552968【已满】<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1137840d8770ac902fd1aeed9b05ea6274c543e3bdd643e00cc676c37eecf21b"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师①群" title="系统架构设计师①群"></a>，②群：1087700294<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=3d7554a3d8c0190803791f91e086045de706f67a492218bb35a16a5d992a5c21"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师②群" title="系统架构设计师②群"></a>。群内会定期举行送实体资料（教辅资料）活动，欢迎各位考友的加入，加群请备注Github。 
+-  更多教材、视频、论文等资料，可加入QQ交流群①群：746552968<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=1137840d8770ac902fd1aeed9b05ea6274c543e3bdd643e00cc676c37eecf21b"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师①群" title="系统架构设计师①群"></a>，②群：1087700294<a target="_blank" href="//shang.qq.com/wpa/qunwpa?idkey=3d7554a3d8c0190803791f91e086045de706f67a492218bb35a16a5d992a5c21"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师②群" title="系统架构设计师②群"></a>。群内会定期举行送实体资料（教辅资料）活动，欢迎各位考友的加入，加群请备注Github。 
 <div align="center">
  <kbd>
  <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group.jpg" width=200 />
