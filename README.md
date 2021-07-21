@@ -66,10 +66,10 @@
 
 - 作者会实时更新备考资料，如有课程资源失效，请先到[**Issues**](https://github.com/xxlllq/2018_system_architect/issues)查找解决方案；如果未找到相关解决方案，可直接在Issues提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
--  更多教材、视频、论文等资料，可加入QQ交流群③群：128773281<a target="_blank" href="https://qm.qq.com/cgi-bin/qm/qr?k=f8Cw8vjJZSGHycsAdGthF9b8DTkGNTjZ&jump_from=webapi"><img border="0" src="https://pub.idqqimg.com/wpa/images/group.png" alt="系统架构设计师③群" title="系统架构设计师③群"></a>。群内会定期举行送实体资料（教辅资料）活动，欢迎各位考友的加入，加群请备注Github。 
+-  更多考试科目教材、视频、论文等资料，请扫码加入QQ交流群，加群请备注Github。 
 <div align="center">
   <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/qqfile.png" width=400 />
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new-1.png.png" width=400 />
  </kbd> 
  </div>
 
