@@ -66,10 +66,10 @@
 
 - 作者会实时更新备考资料，如有课程资源失效，请先到[**Issues**](https://github.com/xxlllq/2018_system_architect/issues)查找解决方案；如果未找到相关解决方案，可直接在Issues提问或通过QQ：**1101464221** 、邮箱：**xxlllq@qq.com** 联系作者。
 
--  更多考试科目教材、视频、论文等资料，请扫码加入QQ交流群，加群请备注Github。 
+-  更多考试教材、视频、论文等资料，请扫码加入QQ交流群，加群请备注Github。 
 <div align="center">
   <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new.png" width=800 />
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new.jpg" width=800 />
  </kbd> 
  </div>
 
