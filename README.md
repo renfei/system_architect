@@ -69,7 +69,7 @@
 -  更多考试教材、视频、论文等资料，请扫码加入QQ交流群，加群请备注Github。 
 <div align="center">
   <kbd>
- <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new.jpg" width=1000 />
+ <img src="https://raw.githubusercontent.com/xxlllq/2018_system_architect/master/%E9%A1%B9%E7%9B%AE%E5%9B%BE%E7%89%87/group-new.jpg" width=600 />
  </kbd> 
  </div>
 
